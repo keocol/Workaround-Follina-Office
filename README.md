@@ -12,10 +12,13 @@ Takes a copy of the current ACLs applied on all instances of msdt.exe, and then,
 
 Using the backups taken by the first script, revert everything back to original state. However, you need to manually using the GUI change the owner of:
 
-a-	c:\Windows\System32\msdt.exe
-b-	c:\Windows\SysWOW64\msdt.exe
-c-	c:\Windows\WinSxS\amd64_microsoft-windows-msdt_31bf3856ad364e35_10.0.19041.1_none_5b736f76bce3fff9\msdt.exe
-d-	c:\Windows\WinSxS\wow64_microsoft-windows-msdt_31bf3856ad364e35_10.0.19041.1_none_65c819c8f144c1f4\msdt.exe
+c:\Windows\System32\msdt.exe
+
+c:\Windows\SysWOW64\msdt.exe
+
+c:\Windows\WinSxS\amd64_microsoft-windows-msdt_31bf3856ad364e35_10.0.19041.1_none_5b736f76bce3fff9\msdt.exe
+
+c:\Windows\WinSxS\wow64_microsoft-windows-msdt_31bf3856ad364e35_10.0.19041.1_none_65c819c8f144c1f4\msdt.exe
 
 back to the default state "NT SERVICE\TrustedInstaller".
 
