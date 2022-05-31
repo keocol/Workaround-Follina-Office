@@ -1,4 +1,4 @@
-# Workaround-Follina-Office-RCE
+# Workaround-Follina-Office
 
 Simple workaround for preventing the exploitation of Follina Zero-day. There're two batch files. MUST BE RUN AS ADMINISTRATOR
 
